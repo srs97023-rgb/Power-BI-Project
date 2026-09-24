@@ -92,6 +92,8 @@ Power Query (ETL) • Data modeling (star schema) • DAX • Interactive dashbo
 
 **🔗 Live Report:** [View on Power BI Service](YOUR_POWER_BI_LINK)
 
-![Power BI Executive Dashboard]([YOUR_DASHBOARD_IMAGE_LINK](https://github.com/srs97023-rgb/Power-BI-Project/blob/main/PowerBI_Dashboard_image.jpg))
+![Power BI Executive Dashboard](https://github.com/srs97023-rgb/Power-BI-Project/blob/main/PowerBI_Dashboard_image.jpg)
 
+
+![Power BI Executive interactive Dashboard]https://github.com/srs97023-rgb/Power-BI-Project/blob/main/POWER%20BI%20PROJECT_ADVENTURE%20WORKS.pbix
 ---
