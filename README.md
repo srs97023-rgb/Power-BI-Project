@@ -79,7 +79,7 @@ The report has **11 pages**: one page per business question (Q7 to Q12), perform
 ## 📁 Repository Files
 
 - `POWER_BI_PROJECT_ADVENTURE_WORKS.pbix`: Power BI report file
-- `dashboard.png`: dashboard preview
+- `Tableau_Dashboard_image.jpg`: dashboard preview
 
 ## 🧠 Skills Demonstrated
 
